@@ -1,0 +1,13 @@
+PlacementId,Candidate email,Start Date,Status,Marketing Opt Out
+1,Francis@gmail.com,4/11/2024,Active,FALSE
+2,Jessica@gmail.com,5/10/2024,Active,TRUE
+3,Michael@gmail.com,6/12/2024,Active,FALSE
+4,Sarah@gmail.com,7/1/2024,Inactive,TRUE
+5,Thomas@gmail.com,8/15/2024,Active,FALSE
+6,Emily@gmail.com,9/20/2024,Active,TRUE
+7,Francis@gmail.com,10/11/2024,Active,FALSE
+8,Alice@gmail.com,11/22/2024,Inactive,TRUE
+9,Robert@gmail.com,12/5/2024,Active,FALSE
+10,Laura@gmail.com,1/17/2025,Active,TRUE
+11,David@gmail.com,2/10/2025,Inactive,FALSE
+12,Olivia@gmail.com,3/25/2025,Active,TRUE
